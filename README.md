@@ -5,7 +5,7 @@ This repository contains **necessary datasets and R scripts** for an **R Shiny a
 
 ## Published Shiny App
 You can access the **published Shiny app here**:  
-🔗 **[SRP24 Shiny App](https://christie-song.shinyapps.io/SRP24shiny/)**  
+🔗 **[SRP24 Shiny App](https://christie-song.shinyapps.io/JSMDataChallenge24Shiny/)**  
 
 ## Data & Shiny App
 - The **`data/` folder** contains necessary datasets for the analysis. These datasets include cleaned versions of **GSS, MH-CLD, and N-SUMHSS** data used in the study.
