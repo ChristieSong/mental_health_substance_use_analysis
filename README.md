@@ -9,7 +9,7 @@ You can access the **published Shiny app here**:
 
 ## Data & Shiny App
 - The **`data/` folder** contains necessary datasets for the analysis. These datasets include cleaned versions of **GSS, MH-CLD, and N-SUMHSS** data used in the study.
-- The **`shiny_app/` file** contains the R Shiny script that generates an interactive dashboard for exploring trends in depression, substance use, and treatment availability.
+- The **`shiny_app/` folder** contains the R Shiny script that generates an interactive dashboard for exploring trends in depression, substance use, and treatment availability.
 
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
