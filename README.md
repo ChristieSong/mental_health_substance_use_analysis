@@ -4,8 +4,7 @@
 This repository contains **necessary datasets and R scripts** for an **R Shiny app** developed for the study *"Analysis of Mental Health and Substance Use Disorders Pre- and Post-COVID-19."* Using **GSS, MH-CLD, and N-SUMHSS** data, we examine trends in **depression, substance use, and treatment availability** (2018–2022) with visualizations and statistical models.
 
 ## Published Shiny App
-You can access the **published Shiny app here**:  
-🔗 **[SRP24 Shiny App](https://christie-song.shinyapps.io/JSMDataChallenge24Shiny/)**  
+You can access the **published Shiny app here**: **[JSMDataChallenge24Shiny](https://christie-song.shinyapps.io/JSMDataChallenge24Shiny/)**  
 
 ## Data & Shiny App
 - The **`data/` folder** contains necessary datasets for the analysis. These datasets include cleaned versions of **GSS, MH-CLD, and N-SUMHSS** data used in the study.
